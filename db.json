@@ -191,13 +191,6 @@
     {
       "id": 1,
       "userId": 1,
-      "activityId": 1,
-      "comment": "O passeio foi excelente! Adorei!",
-      "rating": 5
-    },
-    {
-      "id": 1,
-      "userId": 1,
       "activityId": 4,
       "comment": "O parque é lindo, só nao gostei porque no dia estava chovendo muito no horário que fomos e nao conseguimos aproveitar tanto",
       "rating": 4
