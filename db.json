@@ -4,8 +4,154 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
       "id": 1
+    },
+    {
+      "email": "hanna@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Hanna",
+      "id": 2
+    },
+    {
+      "email": "romana@email.com",
+      "password": "$2a$10$BQYXdjD9n.cK06MMc3ckpOk08yd29GuVcgf7MVdLRmiWzt2pgD7Oq",
+      "name": "Romana",
+      "phone_number": "85985480622",
+      "id": 3
+    }
+  ],
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Holiday Inn Manaus",
+      "price": 149,
+      "address": "Av. Rodrigo Otávio, 3721 - Japiim, Manaus - AM, 69073-177, Brazil",
+      "img": "https://images.pexels.com/photos/13696647/pexels-photo-13696647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "reviews": null,
+      "rooms": 13
+    },
+    {
+      "id": 2,
+      "name": "Hotel casa dos Frades",
+      "price": 89,
+      "address": "Rua 10 de Julho, 567 - Centro, Manaus - AM, 69010-060, Brazil",
+      "img": "https://images.unsplash.com/photo-1652067871207-ddb47c708633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "reviews": null,
+      "rooms": 10
+    },
+    {
+      "id": 3,
+      "name": "Mural Living",
+      "price": 250,
+      "address": "R. Dr. Moreira, 168 - Centro, Manaus - AM, 69005-250, Brazil",
+      "img": "https://www.travelandleisure.com/thmb/c4hiVPTJJZWSjq0O0WdHXyiCeTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kanopi-house-jamaica-treehouse-TREEHOUSESTAYS0522-d7299005e80d44dea6d6a885999de818.jpg",
+      "reviews": null,
+      "rooms": 25
+    },
+    {
+      "id": 4,
+      "name": "Parque Hotel Corredeira do Urubuí",
+      "price": 199,
+      "address": "BR-174 - Centro, Pres. Figueiredo - AM, 69735-000, Brazil",
+      "img": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2020/10/GettyImages-104731717.jpg",
+      "reviews": null,
+      "rooms": 14
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "name": "Encontro das águas",
+      "price": 60,
+      "type": "aquatica",
+      "img": "https://amz.live/wp-content/uploads/2021/05/Encontro-das-A%CC%81guas.jpg",
+      "reviews": null,
+      "description": "Trata-se de um incrível fenômeno da natureza onde as águas barrentas do Rio Solimões e as águas escuras do Rio Negro se encontram e percorrem, lado a lado, por um trecho de seis quilômetros de extensão, mas não chegam a se misturar nunca. Para presenciar essa maravilha natural, um passeio de barco, que tem duração de um pouco mais de uma hora e passa por outras lindas paisagens da região, lhe levará até o ponto de encontro das águas desses dois importantes rios"
+    },
+    {
+      "id": 2,
+      "name": "Parque Nacional de Anavilhanas",
+      "price": 70,
+      "type": "aquatica",
+      "img": "https://media.istockphoto.com/id/1248839121/es/v%C3%ADdeo/parque-nacional-anavilhanas-bosque-amaz%C3%B3nico.jpg?s=640x640&k=20&c=db4lO9r1NWE142WCv5t_O8zaewa__psS7ermQZYslIE=",
+      "reviews": null,
+      "description": "Esse espetacular parque foi criado com o intuito de proteger e preservar um dos maiores arquipélagos fluviais do mundo, o de Anavilhanas, que conta com cerca de 400 ilhas, além de todas as riquezas naturais que também existem por sua extensa área, como sua rica e densa vegetação, uma biodiversidade extravagante que envolve uma quantidade surpreendente de árvores de grande porte e de inúmeras espécies de aves, e muitos outros encantos da natureza. O Parque também gera renda para as comunidades que vivem em seu entorno e ainda estimula o conhecimento e a educação ambiental com seu turismo sustentável."
+    },
+    {
+      "id": 3,
+      "name": "Escalada em árvores",
+      "price": 55,
+      "type": "terrena",
+      "img": "https://thumbs.dreamstime.com/b/%C3%A1rvore-de-escalada-infantil-com-corda-e-dispositivo-seguran%C3%A7a-no-parque-aventuras-garotinho-subindo-na-229318113.jpg",
+      "reviews": null,
+      "description": "Esse passeio é uma aventura e maneira extremamente divertida de se ter uma visão, mas de um ângulo diferente, absolutamente espetacular do mar de verde que forma a Floresta Amazônica – você escalará suas árvores centenárias, que podem chegar a mais de 60 metros de altura, e, de seu topo, poderá admirar uma paisagem que pouquíssimas pessoas tem a oportunidade de presenciar. Com alguma sorte, você pode conseguir avistar aves e até mesmo macacos nos galhos das árvores."
+    },
+    {
+      "id": 4,
+      "name": "Parque Nacional de Anavilhanas",
+      "price": 70,
+      "type": "aquatica",
+      "img": "https://media.istockphoto.com/id/1248839121/es/v%C3%ADdeo/parque-nacional-anavilhanas-bosque-amaz%C3%B3nico.jpg?s=640x640&k=20&c=db4lO9r1NWE142WCv5t_O8zaewa__psS7ermQZYslIE=",
+      "reviews": null,
+      "description": "Esse espetacular parque foi criado com o intuito de proteger e preservar um dos maiores arquipélagos fluviais do mundo, o de Anavilhanas, que conta com cerca de 400 ilhas, além de todas as riquezas naturais que também existem por sua extensa área, como sua rica e densa vegetação, uma biodiversidade extravagante que envolve uma quantidade surpreendente de árvores de grande porte e de inúmeras espécies de aves, e muitos outros encantos da natureza. O Parque também gera renda para as comunidades que vivem em seu entorno e ainda estimula o conhecimento e a educação ambiental com seu turismo sustentável."
+    },
+    {
+      "id": 5,
+      "name": "Nadar com os botos",
+      "price": 100,
+      "type": "aquatica",
+      "img": "https://amz.live/wp-content/uploads/2022/02/iStock-1195428297-scaled.jpg",
+      "reviews": null,
+      "description": "Uma das experiências mais especiais que você pode ter no Amazonas é ter o contato com os botos cor-de-rosa, que são uma espécie de símbolo dessa região. Nesse passeio, o barco lhe levará até a Praia da Orla de Novo Airão, onde esses animais maravilhosos vivem livremente, e após uma palestra sobre as principais características desses mamíferos e sobre a atividade de turismo com eles, será liberado a interação e mergulho com os botos a partir de uma plataforma submersa."
+    },
+    {
+      "id": 6,
+      "name": "Festival de Parintins",
+      "price": 90,
+      "type": "terrena",
+      "img": "https://live.staticflickr.com/461/19754714288_213c58983e_c.jpg",
+      "reviews": null,
+      "description": "O Festival Folclórico de Parintins é uma festa popular do município de mesmo nome, Parintins, no interior do Amazonas, que é realizada todo ano, sempre no último fim de semana do mês de Junho, em plena floresta amazônica. O evento é uma das maiores celebrações brasileiras que comemoram a rica cultura amazonense – inclusive, fica atrás apenas do Carnaval como a maior festa folclórica do Brasil, pois chega a atrair cerca de cem mil turistas de diferentes cantos do país e conta com incríveis espetáculos, todos muito tradicionais e divertidos, durante três dias de festival."
+    },
+    {
+      "id": 7,
+      "name": "Visita a Tribo Indígena",
+      "price": 120,
+      "type": "terrena",
+      "img": "https://thumbs.dreamstime.com/b/santa-cruz-cabralia-bahia-brazil-april-patax%C3%B3-indians-seen-indigenous-games-coroa-vermelha-village-city-190838656.jpg",
+      "reviews": null,
+      "description": "Uma visita a uma tribo indígena não pode faltar em um roteiro de viagem para Amazônia. Os índios fazem uma recepção calorosa, apresentando a cultura e costumes locais, incluindo danças com músicas indígenas que eles mesmo tocam e rituais. É importante ressaltar que normalmente esses índios vivem do turismo e da produção de artesanatos locais, então vale a pena comprar lembranças para levar pra casa e nunca esquecer dessa experiência!"
+    }
+  ],
+  "favoritesHotels": [
+    {
+      "userId": 1,
+      "hotelId": 3,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "hotelId": 6,
+      "id": 2
+    }
+  ],
+  "favoritesActivities": [
+    {
+      "userId": 1,
+      "activityId": 6,
+      "id": 2
+    }
+  ],
+  "reservations": [
+    {
+      "id": 2,
+      "userId": 1,
+      "activityId": 5
+    },
+    {
+      "userId": 1,
+      "activityId": 3,
+      "id": 3
     }
   ]
 }

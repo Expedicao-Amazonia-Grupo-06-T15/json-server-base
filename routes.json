@@ -1,3 +1,8 @@
 {
-  "users": 600
+  "users": 600,
+  "hotels": 644,
+  "activities": 644,
+  "favoritesHotels": 660,
+  "favoritesActivities": 660,
+  "reservations": 660
 }
