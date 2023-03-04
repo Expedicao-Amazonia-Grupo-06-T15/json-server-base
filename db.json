@@ -66,7 +66,7 @@
       "type": "aquatica",
       "img": "https://amz.live/wp-content/uploads/2021/05/Encontro-das-A%CC%81guas.jpg",
       "reviews": null,
-      "description": "Trata-se de um incrível fenômeno da natureza onde as águas barrentas do Rio Solimões e as águas escuras do Rio Negro se encontram e percorrem, lado a lado, por um trecho de seis quilômetros de extensão, mas não chegam a se misturar nunca. Para presenciar essa maravilha natural, um passeio de barco, que tem duração de um pouco mais de uma hora e passa por outras lindas paisagens da região, lhe levará até o ponto de encontro das águas desses dois importantes rios"
+      "description": "Trata-se de um incrível fenômeno da natureza onde as águas barrentas do Rio Solimões e as águas escuras do Rio Negro se encontram e percorrem, lado a lado, por um trecho de seis quilômetros de extensão, mas não chegam a se misturar nunca. Para presenciar essa maravilha natural, um passeio de barco, que tem duração de um pouco mais de uma hora e passa por outras lindas paisagens da região, lhe levará até o ponto de encontro das águas desses dois importantes rios."
     },
     {
       "id": 2,
@@ -142,16 +142,24 @@
       "id": 2
     }
   ],
-  "reservations": [
+  "reservedActivities": [
     {
       "id": 2,
       "userId": 1,
       "activityId": 5
     },
     {
+      "id": 3,
       "userId": 1,
-      "activityId": 3,
-      "id": 3
+      "activityId": 3
+      
+    }
+  ],
+  "reservedHotels": [
+    {
+      "id": 1,
+      "userId": 1,
+      "hotelId": 2
     }
   ]
 }
