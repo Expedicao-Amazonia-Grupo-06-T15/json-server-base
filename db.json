@@ -170,6 +170,15 @@
         "startDate": "3/9/2023",
         "endDate": "3/16/2023"
       }
+    },
+    {
+      "id": 1,
+      "userId": 2,
+      "hotelId": 1,
+      "dates": {
+        "startDate": "3/9/2023",
+        "endDate": "3/16/2023"
+      }
     }
   ], 
   "hotelsReviews": [
