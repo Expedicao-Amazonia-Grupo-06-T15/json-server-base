@@ -20,6 +20,11 @@
       "name": "Romana",
       "phone_number": "85985480622",
       "id": 3
+    },
+    {
+      "email": "alice@mail.com",
+      "password": "$2a$10$nbgsmV/O523wIzlaXQZGj.D./vETEbT1ENhnCFFdea8zZanGJQj5O",
+      "id": 4
     }
   ],
   "hotels": [
@@ -158,7 +163,6 @@
       "id": 3,
       "userId": 1,
       "activityId": 3
-      
     }
   ],
   "reservedHotels": [
@@ -180,7 +184,7 @@
         "endDate": "3/16/2023"
       }
     }
-  ], 
+  ],
   "hotelsReviews": [
     {
       "id": 1,
@@ -204,13 +208,75 @@
       "rating": 4
     }
   ],
-  "activitiesReviews":[
+  "activitiesReviews": [
     {
       "id": 1,
       "userId": 1,
       "activityId": 4,
       "comment": "O parque é lindo, só nao gostei porque no dia estava chovendo muito no horário que fomos e nao conseguimos aproveitar tanto",
       "rating": 4
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "Gastronomia amazônica - O que e onde comer?",
+      "content": "A culinária amazônica é uma das mais diversas e saborosas do Brasil, com ingredientes e preparações únicas. O principal ingrediente da região é o peixe, que é servido de diversas maneiras, desde o famoso tambaqui assado na brasa até o caldo de tucunaré e o pirarucu de casaca. Outro prato famoso da região é o tacacá, um caldo quente de tucupi (um líquido amarelo extraído da mandioca), goma de tapioca e jambu (uma erva típica da região que causa um formigamento na boca).\n\nAlém disso, há outros pratos interessantes como o caruru, um ensopado feito com quiabo e camarão seco, e a caldeirada de peixe, um prato rico em temperos e especiarias. Na sobremesa, a região oferece delícias como o açaí, servido com farinha e açúcar, e o cupuaçu, uma fruta semelhante à jaca.\n\nOs melhores lugares para experimentar a culinária amazônica são os mercados municipais, onde se pode encontrar restaurantes especializados em peixes e frutos da região. Em Belém do Pará, o Mercado Ver-o-Peso é um dos lugares mais famosos para experimentar a culinária amazônica, com diversas opções de restaurantes e bares.",
+      "author": "Liege Silva",
+      "authorImg": "https://img.freepik.com/fotos-gratis/estilo-de-vida-beleza-e-moda-conceito-de-emocoes-de-pessoas-jovem-gerente-de-escritorio-feminino-asiatico-ceo-com-expressao-satisfeita-em-pe-sobre-um-fundo-branco-sorrindo-com-os-bracos-cruzados-sobre-o-peito_1258-59329.jpg",
+      "date": "9 de Agosto de 2021",
+      "reading_time": "1min - 3min",
+      "img": "https://jbchost.com.br/madeinjapan/wp-content/uploads/2017/07/lamenacu_mabonasu_castanhadopara.jpg"
+    },
+    {
+      "id": 2,
+      "title": "CATAMARÃ - O principal meio de transporte das populações ribeirinhas",
+      "content": "A região amazônica é caracterizada pela sua vasta rede fluvial, e o catamarã é o meio de transporte mais comum entre as populações ribeirinhas. Os catamarãs são barcos de dois cascos, com capacidade para transportar pessoas, animais e mercadorias. Esses barcos são essenciais para a economia da região, permitindo o acesso a lugares remotos e a troca de produtos entre as comunidades ribeirinhas.\n\nA vida a bordo de um catamarã é bastante simples, com poucas comodidades e condições de higiene limitadas. No entanto, essa é uma forma interessante de vivenciar a cultura local e conhecer a vida nas comunidades ribeirinhas. Há várias rotas de catamarã pela região, com destaque para as rotas que ligam as cidades de Belém do Pará e Manaus, que oferecem uma vista incrível da floresta amazônica e do Rio Amazonas.",
+      "author": "Paulo Guerra",
+      "authorImg": "https://engenharia360.com/wp-content/uploads/2019/05/esta-pessoa-nao-existe-engenharia360-4.png",
+      "date": "23 de Junho de 2020",
+      "reading_time": "3min - 5min",
+      "img": "https://aguiaamazonas.com.br/wp-content/uploads/2013/06/amazon-cruises.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Artesanato Marajoara",
+      "content": "O artesanato marajoara é um dos mais famosos e apreciados na região amazônica. Essa técnica de cerâmica é originária da Ilha de Marajó, no Pará, e se caracteriza pelos seus desenhos geométricos e figuras zoomórficas e antropomórficas, que remetem a antigos povos pré-colombianos.\n\nA técnica de produção é passada de geração em geração e se baseia em um processo de modelagem manual das peças, seguida da secagem natural, que pode durar de um a dois dias, e da queima em forno de lenha. A pintura é feita com tintas naturais, produzidas a partir de plantas e minerais da região.\n\nOs objetos produzidos incluem vasos, pratos, tigelas, jarros, estátuas e outros artefatos decorativos e utilitários. As peças são decoradas com desenhos abstratos e representações de animais, como peixes, tartarugas, aves e serpentes, além de figuras humanas estilizadas.\n\nO artesanato marajoara é um importante patrimônio cultural da região e tem grande valor artístico e histórico. Suas raízes remontam às culturas pré-colombianas que habitaram a região antes da chegada dos europeus, e suas peças são consideradas verdadeiras obras de arte.\n\nAlém do valor artístico e cultural, o artesanato marajoara também tem um importante papel econômico na região, sendo uma fonte de renda para muitas famílias locais. As peças são vendidas em feiras e lojas de artesanato, tanto na Ilha de Marajó quanto em outras cidades da região amazônica e do Brasil.\n\nPara os turistas que visitam a região, o artesanato marajoara é uma das principais atrações culturais. É possível visitar os ateliês dos artesãos locais e observar todo o processo de produção das peças. Além disso, muitas lojas de artesanato oferecem uma grande variedade de objetos marajoaras para venda, permitindo que os visitantes levem uma lembrança única da região.\n\nO artesanato marajoara é uma das mais importantes expressões culturais da região amazônica. Suas peças são verdadeiras obras de arte e representam um importante patrimônio histórico e cultural. Para os turistas que visitam a região, é uma oportunidade única de conhecer essa rica tradição artesanal e levar consigo uma lembrança única da Amazônia.",
+      "author": "Ana Paula",
+      "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3AGlZetxaNT-wjJI-uEdoD2Uo_z1oT9T3uA&usqp=CAU",
+      "date": "15 de Setembro de 2020",
+      "reading_time": "2min - 4min",
+      "img": "https://portalamazonia.com/images/p/33914/b2ap3_large_cer-marajo.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Quando Viajar para a Amazônia: Descubra a Melhor Época para Conhecer a Floresta",
+      "content": "A Amazônia é uma das regiões mais fascinantes e biodiversas do mundo, oferecendo uma experiência única de contato com a natureza selvagem. Mas a escolha da época do ano para visitar a região pode fazer toda a diferença em sua viagem.\n\nA Amazônia é um lugar quente e úmido durante todo o ano, mas há duas estações bem definidas: a estação seca e a estação chuvosa. A escolha da época ideal para visitar a região dependerá do tipo de atividade que você deseja realizar, do clima que prefere e das condições que se sente confortável.\n\nA estação seca (maio a novembro) é geralmente considerada a melhor época para visitar a Amazônia, pois o clima é mais ameno, as chuvas são menos frequentes e as águas dos rios estão mais baixas. É um momento ideal para atividades como caminhadas na floresta, observação da vida selvagem, pesca esportiva e visitas a comunidades indígenas.\n\nO período seco também é a melhor época para fazer cruzeiros fluviais na região, já que as águas são mais calmas e o acesso a algumas áreas remotas é mais fácil. No entanto, é importante lembrar que mesmo na estação seca, a Amazônia ainda é quente e úmida, por isso é fundamental levar roupas leves e respiráveis.\n\nA estação chuvosa (dezembro a abril) na Amazônia é marcada por chuvas intensas e frequentes, o que pode dificultar algumas atividades ao ar livre. No entanto, para aqueles que desejam experimentar a vida na floresta tropical em seu estado mais intenso, essa pode ser uma época emocionante para visitar a região.\n\nNessa época, as águas dos rios estão mais altas, o que torna o transporte fluvial mais fácil e permite o acesso a algumas áreas que não estão disponíveis durante a estação seca. Além disso, muitos animais, incluindo pássaros e primatas, são mais ativos durante a estação chuvosa.\n\nNo entanto, é importante lembrar que as chuvas frequentes também podem dificultar o acesso a algumas áreas, e muitas trilhas podem estar fechadas devido ao aumento do nível dos rios. Além disso, as temperaturas são elevadas durante todo o ano, e a estação chuvosa pode tornar as condições ainda mais úmidas e quentes.\n\nEm resumo, a melhor época para visitar a Amazônia dependerá do que você espera de sua viagem. Se você quer aproveitar atividades ao ar livre como caminhadas e pesca esportiva, a estação seca pode ser a melhor escolha. Se você deseja experimentar a floresta em seu estado mais selvagem e ver animais em atividade, a estação chuvosa pode ser ideal.",
+      "author": "Jorge Luis",
+      "authorImg": "https://img.ibxk.com.br/2019/02/17/17124052466014.jpg?ims=704x",
+      "date": "22 de Dezembro de 2022",
+      "reading_time": "3min - 5min",
+      "img": "https://media.istockphoto.com/id/1309745739/pt/foto/canoe-in-the-amazon-rainforest.jpg?s=612x612&w=0&k=20&c=wmWIgsGEZadLubKytG7-K9EzCkhV4fgOkK1u1GSdbc4="
+    },
+    {
+      "id": 5,
+      "title": "Afinal, a Amazônia é só no Brasil? Amazônia é Amazonas?",
+      "content": "A Amazônia é uma das regiões mais conhecidas e importantes do mundo em termos de biodiversidade, cobrindo mais de sete milhões de quilômetros quadrados na América do Sul. No entanto, muitas pessoas ainda têm dúvidas sobre a localização e os limites geográficos da Amazônia, e é comum questionar se ela é exclusivamente brasileira ou se inclui outros países.\n\nPara começar, é importante esclarecer que a Amazônia não é apenas uma região brasileira. Na verdade, ela abrange nove países sul-americanos: Brasil, Peru, Colômbia, Venezuela, Equador, Bolívia, Guiana, Suriname e Guiana Francesa. Esses países compartilham a floresta amazônica e seus recursos naturais, embora cada um tenha sua própria parte da região.\n\nQuanto à questão se a Amazônia é o mesmo que o estado brasileiro do Amazonas, a resposta é não. O Amazonas é um dos estados brasileiros que fazem parte da região amazônica, mas ele não representa a totalidade da área. Além disso, outros estados brasileiros também possuem território na Amazônia, como o Pará, Rondônia, Acre, Amapá e parte do Mato Grosso.\n\nA Amazônia é uma das regiões mais importantes do mundo, em termos de biodiversidade e ecossistemas, sendo fundamental para o equilíbrio ambiental global. A região abriga a maior floresta tropical do mundo, que é o lar de uma variedade de espécies de plantas e animais, muitos dos quais ainda não foram descobertos e estudados.\n\nAlém disso, a Amazônia é uma importante fonte de recursos naturais, como madeira, minerais, água e alimentos, que sustentam a economia e o bem-estar das comunidades locais. No entanto, a região enfrenta sérios desafios, incluindo desmatamento, mudanças climáticas e conflitos socioambientais.\n\nPortanto, é fundamental que os governos e a sociedade em geral reconheçam a importância da região amazônica e trabalhem juntos para garantir sua conservação e uso sustentável. Isso inclui a implementação de políticas e práticas que promovam a preservação da floresta, o respeito aos direitos das comunidades locais e a promoção de práticas econômicas sustentáveis.\n\nA Amazônia não é exclusivamente brasileira, abrangendo nove países da América do Sul. Além disso, ela não se limita ao estado do Amazonas, incluindo também outros estados brasileiros e sendo fundamental para a biodiversidade e economia da região e do mundo.",
+      "author": "Lívia Bueno",
+      "authorImg": "https://img.r7.com/images/rosto-humano-irreal-inteligencia-artificial-19022019142839436?dimensions=1024x1024",
+      "date": "5 de Janeiro de 2023",
+      "reading_time": "3min - 4min",
+      "img": "https://media.istockphoto.com/id/1008090804/pt/foto/amazon-rainforest.jpg?s=612x612&w=0&k=20&c=bX52Okyre_iw0n_IbofEncUAsENum1ktQVs4__uQy78="
+    },
+    {
+      "id": 6,
+      "title": "Muitas lendas do folclore brasileiro tem como cenário a Amazônia",
+      "content": "O folclore faz parte do imaginário do brasileiro. Quem nunca ouviu histórias contadas pelos avós, professores e antigos sobre mulas sem cabeça, menina que se apaixona por boto, um moço travesso com os pés para trás e um outro moço também travesso que pula com um pé só?\n\nA lenda do boto cor-de-rosa, que vive nos rios da Amazônia, e nas primeiras horas da noite se transforma num lindo jovem que seduz jovens solteiras. O boto conduz seus encontros para o fundo do rio, onde engravida as moças.\n\nQuando as jovens engravidam e não tinham compromisso com nenhum homem, era comum dizer que o bebê era filho do boto.\n\nA lenda do Curupira narra a história de uma entidade que protege a fauna e a flora da floresta. O Curupira é conhecido por ter os pés voltados para trás e vingar a floresta dos destruidores. Que ele volte a aparecer para proteger a grandiosa Amazônia, né?!\n\nJá as lendas com figuras femininas, tem-se a da sereia Iara que atrai os homens pelo seu canto e por sua beleza e a lenda da Vitória Régia.\n\nA Lua era um deus que namorava índias. Uma delas, a jovem guerreira Naiá se apaixona pela Lua e, numa noite, vendo a lua refletida nas águas se aproxima demais do lago e morre afogada. Comovido pela situação, o deus Lua transforma a jovem na flor Vitória-régia que sobrevive sob as águas.",
+      "author": "Laura Dutra",
+      "authorImg": "https://tm.ibxk.com.br/2019/02/17/17124106623015.jpg",
+      "date": "3 de Maio de 2022",
+      "reading_time": "1min - 3min",
+      "img": "https://media.istockphoto.com/id/1015743086/pt/foto/tribal-elder-binan-tukum-hunting-with-his-son-for-monkeys-in-the-rainforest.jpg?s=612x612&w=0&k=20&c=0miYg2KA1EWa4JCgVFOcc21jzF1GMJc76AbfKREGRlM="
     }
   ]
 }

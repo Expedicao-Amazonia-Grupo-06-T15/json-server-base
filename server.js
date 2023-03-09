@@ -17,7 +17,8 @@ const rules = auth.rewriter({
   reservedActivities: 660,
   reservedHotels: 660,
   hotelsReviews: 644,
-  activitiesReviews: 644
+  activitiesReviews: 644,
+  blogPosts: 644,
 });
 
 app.use(cors());
