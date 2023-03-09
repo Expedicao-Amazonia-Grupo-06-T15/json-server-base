@@ -29,7 +29,7 @@
       "price": 149,
       "address": "Av. Rodrigo Otávio, 3721 - Japiim, Manaus - AM, 69073-177, Brazil",
       "img": "https://images.pexels.com/photos/13696647/pexels-photo-13696647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "reviews": null,
+      "reviews": 4.5,
       "rooms": 13,
       "description": "Está cerca de 6KM do Centro Histórico e de fácil acesso ao Aeroporto Internacional Eduardo Gomes hotel Holiday Inn® Manaus oferece a localização e estrutura perfeita para viagens de negócios, lazer e grupos com protocolos de limpeza e biossegurança. Situado na zona industrial próximo as principais empresas da região como Samsung, P&G, Honda, White Martins, entre outras"
     },
@@ -39,7 +39,7 @@
       "price": 89,
       "address": "Rua 10 de Julho, 567 - Centro, Manaus - AM, 69010-060, Brazil",
       "img": "https://images.unsplash.com/photo-1652067871207-ddb47c708633?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "reviews": null,
+      "reviews": 4.5,
       "rooms": 10,
       "description": "Um hotel com localização única de frente para o teatro amazonas e largo São Sebastião, ao lado da igreja são Sebastião. Um hotel histórico em homenagem aos frades capuchinhos. Super especial com jeito franciscano de ser."
     },
@@ -49,7 +49,7 @@
       "price": 250,
       "address": "R. Dr. Moreira, 168 - Centro, Manaus - AM, 69005-250, Brazil",
       "img": "https://www.travelandleisure.com/thmb/c4hiVPTJJZWSjq0O0WdHXyiCeTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kanopi-house-jamaica-treehouse-TREEHOUSESTAYS0522-d7299005e80d44dea6d6a885999de818.jpg",
-      "reviews": null,
+      "reviews": 5,
       "rooms": 25,
       "description": "MURAL LIVING é um empreendimento de origem familiar cujo legado passado para as novas gerações de administradores rumaram para um Retrofit sob a temática STREET ART, trazendo uma construção dos anos 70 para o século 21, mantendo sua essência arquitetônica com sua fachada em alto relevo , sob os modelos de Prédios da cidade de Paris modernizando a cidade de Manaus na sua saudosa época da BELLE EPOQUE."
     },
@@ -59,7 +59,7 @@
       "price": 199,
       "address": "BR-174 - Centro, Pres. Figueiredo - AM, 69735-000, Brazil",
       "img": "https://www.nerdwallet.com/assets/blog/wp-content/uploads/2020/10/GettyImages-104731717.jpg",
-      "reviews": null,
+      "reviews": 5,
       "rooms": 14,
       "description": "O Parque Hotel Corredeira do Urubuí está localizado em Presidente Figueiredo. Amazon Aqua Park é uma atração local e as belezas naturais da região podem ser admiradas em Cachoeira do Santuário e Cachoeira de Iracema."
     }
